@@ -51,8 +51,9 @@ section#redes-sociais > a > img {
     box-sizing: border-box;
 }
 section#redes-sociais {
-    text-align: right;
+    text-align: center;
 }
+
 
 section#redes-sociais img:hover {
     border: 2px solid rgba(255, 255, 255, 0.637);
